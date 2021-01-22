@@ -1,0 +1,36 @@
+{
+   "data": [
+        {
+            "title": "Fruits",
+            "items": [
+                "Apple",
+                "Orange",
+                "Banana",
+                "Grape",
+                "Strawberry"
+            ]
+        },
+        {
+            "title": "Cars",
+            "items": [
+                "BMW",
+                "Ford",
+                "Tesla",
+                "Honda",
+                "Toyota"
+            ]
+        },
+        {
+            "title": "Sports",
+            "items": [
+                "Football",
+                "Rugby",
+                "Tennis",
+                "Golf",
+                "Snooker",
+                "Athletics"
+            ]
+        }
+    
+    ]
+}
